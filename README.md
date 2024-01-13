@@ -1,5 +1,5 @@
 # CineSearch (Movie Finder App)
-# [-->Website Link<--](cinesearch-kappa.vercel.app)
+# [-->Website Link<--](https://cinesearch-kappa.vercel.app)
 
 ## Getting Started with Create React App
 
